@@ -16,7 +16,7 @@ variabel c bertipe   int (input("Masukkan bilangan ke-3: "))
 jadi bilangan terbesar nya adalah variabel d
 
 # flowchart programnya
-![pdf.1](flowchar/Flowchart%20mencari%20nilai%20terbesar.pdf)
+![img.1](gambar/2022-11-03%20(2).png)
 
 # cara dan hasil dari programnya adalah :
 ![img.2](gambar/1.png)
